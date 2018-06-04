@@ -577,5 +577,27 @@ wifi + SD card + tensorflow
 6. ANN
 7. ARIMA
 
+### 6/1
+- 實習心得：
+1320~1800
 
+中午和鼎崴助教約在實驗室見面，跟他小聊了一下 <br>
+之後幫輔翔做了一些磚塊的建置，閱讀一些關於 LSTM 的文件 <br>
+以及 ARIMA 預測的評估，終於搞懂整個 code ，接下來就是 <br>
+把 keras 改成 tensorflow 並存起來，晚上很匆忙的瑞恩開會 <br>
+講了一個多小時，他這週試試 SD card 存檔的部分 <br>
+而我完成 tensorflow 的建置 <br>
+
+- 近期工作目標：
+ARIMA model 評估、tensorflow 模型建置
+
+- 學習點：
+1. tensorflow
+2. LSTM code
+3. ARIMA code
+4. 模型評估
+
+### 6/4
+- 實習心得：
+0830~ 
 
