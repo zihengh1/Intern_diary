@@ -650,10 +650,10 @@ Debug and clean code
 - 實習心得：
 0900~1730
 
-今天主要在把昨天完成的加密函式
-在寫得更乾淨簡潔
-把 code 交案就開始看 django 和 node.js
-最近回家有空就看看英文或是 machine learning, deep learning 影片自學
+今天主要在把昨天完成的加密函式 <br>
+在寫得更乾淨簡潔 <br>
+把 code 交案就開始看 django 和 node.js <br>
+最近回家有空就看看英文或是 machine learning, deep learning 影片自學 <br>
 
 - 近期工作目標：
 自學、what's APP chatbot
