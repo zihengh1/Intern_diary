@@ -413,7 +413,8 @@
 這些都是牽扯到隱私權的問題，所以發展性也滿少的 <br>
 
 - 近期工作目標：
-學會 node.js + javascript，把基本的 chatbot 平台做出來
+學會 node.js <br>
+javascript，把基本的 chatbot 平台做出來 <br>
 
 - 學習點：
 1. node.js、npm 基礎認識
@@ -443,7 +444,8 @@
 我也要好好建立自己的人脈網 <br>
 
 - 近期工作目標：
-摸熟嵌入式系統（ＳＴＭ３２）以及utensorflow
+摸熟嵌入式系統（ＳＴＭ３２）<br>
+utensor <br>
 
 - 學習點：
 1. node.js 繼續學習
@@ -468,7 +470,8 @@
 日後要盡快補足缺漏的知識 <br>
 
 - 近期工作目標：
-嵌入式系統、STM32F4 GPIO 控制及讀資料
+嵌入式系統 <br>
+STM32F4 GPIO 控制及讀資料 <br>
 
 - 學習點：
 1. javascript 學習
@@ -491,7 +494,8 @@
 對於研究 edge computing 這件事還是沒什麼進展 <br>
 
 - 近期工作目標：
-utensor 學習、STM32F4 熟悉
+utensor 學習 <br>
+STM32F4 熟悉 <br>
 
 - 學習點：
 1. Ｒ語言
@@ -516,7 +520,8 @@ utensor 學習、STM32F4 熟悉
 最後是跑了 MNIST 的範例，也對深度學習裡分層的編寫有了認識 <br>
 
 - 近期工作目標：
-tensorflow 學習、 mbed os 架設
+tensorflow 學習 <br>
+mbed os 架設 <br>
 
 - 學習點：
 1. mbed os
@@ -543,7 +548,8 @@ tensorflow 學習、 mbed os 架設
 在那之後，就在看深度學習的筆記以及 sachit 的演算法 <br>
 
 - 近期工作目標：
-實驗、深度學習
+實驗 <br>
+深度學習 <br>
 
 - 學習點：
 1. 熟練焊接
@@ -566,7 +572,9 @@ hybrid model = ANN + ARIMA <br>
 因此，專案的模型架構基本上，要去實作時間序列的預測以及倒傳類神經網路 <br>
 
 - 近期工作目標：
-wifi + SD card + tensorflow
+wifi <br>
+SD card <br>
+tensorflow <br>
 
 - 學習點：
 1. 虛擬機
@@ -589,7 +597,8 @@ wifi + SD card + tensorflow
 而我完成 tensorflow 的建置 <br>
 
 - 近期工作目標：
-ARIMA model 評估、tensorflow 模型建置
+ARIMA model 評估 <br>
+tensorflow 模型建置 <br>
 
 - 學習點：
 1. tensorflow
@@ -656,10 +665,37 @@ Debug and clean code
 最近回家有空就看看英文或是 machine learning, deep learning 影片自學 <br>
 
 - 近期工作目標：
-自學、what's APP chatbot
+自學 <br>
+what's APP chatbot <br>
 
 - 學習點：
 1. 簡潔漂亮的程式碼
+
+### 9/4
+- 實習心得：
+1100~1700
+
+早上搭七點的火車從屏東搭回南港上班 <br>
+回去後，就繼續工研院感測器的測試和程式撰寫 <br>
+把 type3 的加密和格式都完成也定義完成 <br>
+但是設備讀取資料也還是斷斷續續 <br>
+問題應該出在硬體供電問題，還是老問題 <br>
+下週要和輔翔去其他地方佈建 <br>
+如果整套系統沒有問題，就把映像檔燒出來再燒盡另外兩台之中 <br>
+不然也可以試試 docker 玩一玩 <br>
+今晚有和瑞恩約好開會時間 <br>
+最近可能要研究一下他所說得 k8s <br>
+或是找到 what's app chatbot api 的使用方法 <br>
+
+- 近期工作目標：
+what's APP chatbot <br>
+edge computing <br>
+k8s <br>
+
+
+- 學習點：
+1. raspberrypi ttyusb
+2. shell script
 
 
 
