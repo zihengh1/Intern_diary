@@ -692,10 +692,40 @@ what's APP chatbot <br>
 edge computing <br>
 k8s <br>
 
-
 - 學習點：
 1. raspberrypi ttyusb
 2. shell script
+
+### 9/5
+- 實習心得：
+0900~1700
+
+今天很早就到實驗室工作 <br>
+一開始就在把早上聽力的單字整理 <br>
+之後就在和輔翔討論了一下工研院感測器的問題 <br>
+多個設備讀資料依舊不穩定 <br>
+之後要加入多執行緒去解決這個問題 <br>
+下午開始在研究 docker, k8s 兩種分散式系統的工具 <br>
+下班時還收到 rpi 上可以裝載 tensorflow 如此令人振奮的消息 <br>
+明天上班就快點試試 <br>
+希望能去快速完成研究 <br>
+另外，whatsapp chatbot 的部分下午做了點功課 <br>
+除了 whatsapp 沒有開放 api <br>
+網路上開源的 framework 也很久沒人維護 <br>
+版本也沒在更新，bug issue 一堆實在是很難開始 chatbot 的研究 <br>
+
+- 近期工作目標：
+k8s, docker <br>
+rpi tensorflow <br>
+chatbot <br>
+工研院案子多執行緒 <br>
+
+- 學習點：
+1. docker on rpi
+2. whatsapp framework
+3. k8s
+
+
 
 
 
