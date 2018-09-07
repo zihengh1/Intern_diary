@@ -725,6 +725,41 @@ chatbot <br>
 2. whatsapp framework
 3. k8s
 
+### 9/6
+- 實習心得：
+1030~1730
+
+早上開始就把昨天看到 tensorflow install rpi 的 document 看完 <br>
+安裝完成後也順利把一些工具放上去 <br>
+不只花了不少時間，memory 的大小也要注意 <br>
+之後分散式部署時一定要用 docker pull image 到 dockerhub <br>
+好奇性的訓練幾個簡單函數 <br>
+也有在 rpi docker 上試著燒錄 image 檔出來
+對於自己的演算法還要多加簡化
+希望能快點作出成果
+做了一整天對於工研院設備的問題也沒解決
+一直在把 rpi上的環境做設置
+
+
+下午開始在研究 docker, k8s 兩種分散式系統的工具 <br>
+下班時還收到 rpi 上可以裝載 tensorflow 如此令人振奮的消息 <br>
+明天上班就快點試試 <br>
+希望能去快速完成研究 <br>
+另外，whatsapp chatbot 的部分下午做了點功課 <br>
+除了 whatsapp 沒有開放 api <br>
+網路上開源的 framework 也很久沒人維護 <br>
+版本也沒在更新，bug issue 一堆實在是很難開始 chatbot 的研究 <br>
+
+- 近期工作目標：
+k8s, docker <br>
+rpi tensorflow <br>
+chatbot <br>
+工研院案子多執行緒 <br>
+
+- 學習點：
+1. docker on rpi
+2. whatsapp framework
+3. k8s
 
 
 
