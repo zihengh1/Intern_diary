@@ -784,6 +784,18 @@ rpi tensorflow <br>
 3. multiple threading
 4. python Serial library
 
+### 9/10
+- 實習日記：
+1400~1730
+
+### 9/11
+- 實習日記：
+0900~1800
+
+### 9/12
+- 實習日記：
+0930~1700
+
 
 
 
