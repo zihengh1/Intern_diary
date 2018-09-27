@@ -941,3 +941,23 @@ sigfox 收發裝置完整性 <br>
 2. UART connect
 3. sigfox upload data
 
+### 9/27
+- 實習日記：
+0900~1830
+
+早上對 sigfox api 的 Type3 進行測試 <br>
+發現老師那端解碼有點問題 <br>
+測試完，就開始針對已經送出去的兩組工研感測器 <br>
+進行程式修正，雖然不能解決 port 上名字定義的問題 <br>
+但是加上了一些 Error handle <br>
+希望能在斷線後重開有所改善 <br>
+做了一些測試，之前發生的問題已經可以解決 <br>
+
+- 近期工作目標：
+Downlink, Uplink time <br>
+Seq2seq model <br>
+
+- 學習點：
+1. sigfox upload data
+2. define usb port name
+3. try and except
