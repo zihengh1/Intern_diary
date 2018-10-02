@@ -961,3 +961,30 @@ Seq2seq model <br>
 1. sigfox upload data
 2. define usb port name
 3. try and except
+
+### 10/1
+- 實習日記：
+1100~1800
+
+昨天晚上睡不好，在床上賴床了很久 <br>
+到了實驗室發現測試 sigfox api 的 SD card 不見了 <br>
+還好程式碼都在本機裡，只是下次要重新燒韌體一次真是麻煩 <br>
+吃完飯，和東逸聊了很久，把整套實驗系統設計好 <br>
+只是在追求準確度跟時間上的取捨，還是有待商榷 <br>
+之後把實驗站點從 g0v 搜出 id，再請謹瑋幫忙從 DB 撈資料 <br>
+資料時間為 9 / 21 - 9 / 30 <br>
+正好經過中秋節，希望可以針對有大幅度變化的資料去訓練模型 <br>
+目前的備份只有一張，希望下次能把所有環境寫成 shell script <br>
+跟老師報告的投影片，預計在下週能跟老師報告 <br>
+報告內容包括：fog, edge, cloud computing 差別、及我能針對三種不同版本 <br>
+如何去進行實驗，我會需要自己建立一個cloud server and data base <br>
+以及分析 seq2seq model and forecastHybrid model 的差別 <br>
+
+- 近期工作目標：
+predentation <br>
+model testing and evaluating <br>
+
+- 學習點：
+1. model parameter testing
+2. forecastHybrid model construct
+
