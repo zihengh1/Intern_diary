@@ -981,7 +981,7 @@ Seq2seq model <br>
 以及分析 seq2seq model and forecastHybrid model 的差別 <br>
 
 - 近期工作目標：
-predentation <br>
+preentation <br>
 model testing and evaluating <br>
 
 - 學習點：
