@@ -1014,3 +1014,26 @@ compare model in different system <br>
 3. build R environment in RPI
 4. DockerHUB
 
+### 10/11
+- 實習日記：
+0900~1830
+
+原本早上跟老師有開會，結果老師去了立法院備詢 <br>
+到了實驗室開始整理過去下載過的 paper 準備去閱讀 <br>
+之後，泉恆學姊找我去聽演講 <br>
+聽完有點不知所云，下午和謹瑋努力工研 device 的偵錯 <br>
+過程一直失敗 <br>
+最後只好利用 programming 的 Exception handling 去解決 <br>
+完成後去找老師報告，他還是匆匆離去，這次有點失望 <br>
+下週要佈建四組，之後還有五百台的量要處理 <br>
+而且每台都要有 Wifi 的 功能 <br>
+這樣的模組功能，下週要繼續完成 <br>
+
+- 近期工作目標：
+compare model in different system <br>
+wifi function in rpi <br>
+
+- 學習點：
+1. wifi connect in rpi
+2. forecastHybrid model and seq2seq model construct
+3. static USB port name 
