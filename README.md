@@ -988,3 +988,29 @@ model testing and evaluating <br>
 1. model parameter testing
 2. forecastHybrid model construct
 
+### 10/8
+- 實習日記：
+0900~1730
+
+早上把站點蒐集到資料拿去做測試
+發現許多預測模型的問題
+overfitting 的問題是最需要去解決的
+之後對邊際運算的研究去深入探討
+想出更多種可以比較的 feature
+Docker hub 的建置也做了 demo images 的佈署
+Error rate 的比較要基於相同資料做比對
+或是相同模型在不同系統上做比對
+但是 R environment 的環境蠻難在 rpi 上運行
+這部分也極需解決
+最後，工研感測器的 usb name 也還是沒有完成
+近期可能要趕工了
+
+- 近期工作目標：
+compare model in different system <br>
+
+- 學習點：
+1. model parameter testing
+2. forecastHybrid model construct
+3. build R environment in RPI
+4. DockerHUB
+
