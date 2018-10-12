@@ -992,18 +992,18 @@ model testing and evaluating <br>
 - 實習日記：
 0900~1730
 
-早上把站點蒐集到資料拿去做測試
-發現許多預測模型的問題
-overfitting 的問題是最需要去解決的
-之後對邊際運算的研究去深入探討
-想出更多種可以比較的 feature
-Docker hub 的建置也做了 demo images 的佈署
-Error rate 的比較要基於相同資料做比對
-或是相同模型在不同系統上做比對
-但是 R environment 的環境蠻難在 rpi 上運行
-這部分也極需解決
-最後，工研感測器的 usb name 也還是沒有完成
-近期可能要趕工了
+早上把站點蒐集到資料拿去做測試 <br>
+發現許多預測模型的問題 <br>
+overfitting 的問題是最需要去解決的 <br>
+之後對邊際運算的研究去深入探討 <br>
+想出更多種可以比較的 feature <br>
+Docker hub 的建置也做了 demo images 的佈署 <br>
+Error rate 的比較要基於相同資料做比對 <br>
+或是相同模型在不同系統上做比對 <br>
+但是 R environment 的環境蠻難在 rpi 上運行 <br>
+這部分也極需解決 <br>
+最後，工研感測器的 usb name 也還是沒有完成 <br>
+近期可能要趕工了 <br>
 
 - 近期工作目標：
 compare model in different system <br>
