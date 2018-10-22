@@ -1037,3 +1037,11 @@ wifi function in rpi <br>
 1. wifi connect in rpi
 2. forecastHybrid model and seq2seq model construct
 3. static USB port name 
+
+### 10/14
+- 實習日記：
+0900~1800
+
+
+
+### 10/17
